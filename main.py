@@ -101,9 +101,6 @@ class GenerateKeys():
 
 
 class cryptor():
-    def __init__(self):
-        print("nor initalized")
-
     def encryptor(self,e,n,mesaj:str):
         emsg = ""
         for i in mesaj:
