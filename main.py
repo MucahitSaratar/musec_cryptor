@@ -97,7 +97,7 @@ class GenerateKeys():
     def verborse(self):
         print(f"N = {self.N}")
         print(f"E = {self.E}")
-        print(f"D = {self.D}")
+#        print(f"D = {self.D}")
 
 
 class cryptor():
